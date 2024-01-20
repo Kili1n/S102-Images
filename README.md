@@ -5,7 +5,7 @@ Vous y trouverez également une presentation du projet.
 
 ## Sommaire
 
-- [Présentation du Projet](#présentation-du-projet)
+- [Présentation du Projet](#presentation-du-projet)
 - [Guide de Fonctionnement](#guide-de-fonctionnement)
 - [Recommandations d'usage](#recommandations-dusage)
 - [Les Fonctionnalités](#les-fonctionnalités)
