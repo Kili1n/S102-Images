@@ -30,10 +30,10 @@ Vous y trouverez également une presentation du projet.
 
 ## Presentation du Projet 
 
-Le but de ce projet est de ce familiariser avec les classes et le language c++. 
-Le projet est réaliser en groupe de deux pour apprendre à collaborer sur un meme projet. 
+Le but de ce projet est de se familiariser avec les classes, le language c++ et de manipuler des vecteurs à plusieurs dimensions. 
+Le projet est réalisé en groupe de deux pour apprendre à collaborer sur un meme projet. 
 
-Le coeur du projet est la réaslisation d'une programme de traitement d'image au format PPM en implémentant un certain nombre de fonctionnalités. 
+Le coeur du projet est la réalisation d'un programme de "traitement" d'image au format PPM en implémentant un certain nombre de fonctionnalités. 
 
 ## Guide de Fonctionnement 
 
